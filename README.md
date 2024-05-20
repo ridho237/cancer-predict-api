@@ -23,4 +23,5 @@ npm start
 - API Document endpoints
 
   Prediction Endpoint: http://localhost:3000/predict
+  
   Prediciton Histories Endpoint: http://localhost:3000/predict/histories
